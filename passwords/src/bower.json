@@ -1,0 +1,18 @@
+{
+  "name": "src",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sofia Petsoulakis <petsofia@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aifoS1/electron-practice",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
